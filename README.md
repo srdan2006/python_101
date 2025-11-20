@@ -160,8 +160,9 @@ sučelja za instalaciju *desktop* aplikacija. Na slici
 [1](#fig:wininstall){reference-type="ref" reference="fig:wininstall"}
 vidimo kako izgleda pokretanje instalacije novijih verzija Pythona.
 
-![Instalacija Pythona na Windows OS-u](/slike/windows_install.png){#fig:wininstallwidth="\\textwidth"}
+![Instalacija Pythona na Windows OS-u](/slike/windows_install.png)
 
+{#fig:wininstallwidth="\\textwidth"}
 Dok klik na \"Install Now\" obavlja većinu posla, ipak je korisno
 primijetiti neke detalje i uključiti dodatne mogućnosti. Python će se po
 zadanim postavkama instalirati u korisnički direktorij (na slici je
@@ -208,8 +209,9 @@ koncepata i eksperimentaciju s mogućnostima. IDLE se ponaša kao i većina
 aplikacija s grafičkim sučeljem, odnosno moguće ju je pokrenuti kroz
 *Start menu* ili ekvivalente u drugim operativnim sustavima.
 
-![Izvršavanje Python kôda putem sučelja IDLE](/Zadatak_LaTeX/images/idle.png){#fig:idlewidth="\\textwidth"}
+![Izvršavanje Python kôda putem sučelja IDLE](/slike/idle.png)
 
+{#fig:idlewidth="\\textwidth"}
 Kada pokrenemo IDLE, dočekati će nas glavno sučelje ovog programa koje
 je prikazano na slici [2](#fig:idle){reference-type="ref"
 reference="fig:idle"}. U glavnom prozoru IDLE-a naredbe se upisuju nakon
@@ -232,8 +234,9 @@ je vidljivo na slici [3](#fig:idle_text){reference-type="ref"
 reference="fig:idle_text"}. Datoteka sadrži tipičan program za prvi
 susret s programiranjem koji ćemo kasnije podrobnije analizirati.
 
-![IDLE i pisanje tekstualnih datoteka](/Zadatak_LaTeX/images/idle_text.png){#fig:idle_textwidth="\\textwidth"}
+![IDLE i pisanje tekstualnih datoteka](/slike/idle_text.png)
 
+{#fig:idle_textwidth="\\textwidth"}
 Novi prozor koji nam se otvorio je jednostavan program za pisanje
 tekstualnih datoteka (poput Notepada i sličnog softvera), a ne komandna
 linija kao glavni prozor IDLE-a. U novonastalu datoteku možemo upisati
@@ -245,8 +248,9 @@ asketske prirode pa neke verzije ne paze na to umjesto nas. Rezultat ove
 radnje je vidljiv na slici [4](#fig:idle_text_run){reference-type="ref"
 reference="fig:idle_text_run"}.
 
-![IDLE i rezultat izvršavanja programa](/Zadatak_LaTeX/images/idle_text_run.png){#fig:idle_text_run width="\\textwidth"}
+![IDLE i rezultat izvršavanja programa](/slike/idle_text_run.png)
 
+{#fig:idle_text_run width="\\textwidth"}
 Upravo smo izvršili računalni program! Ovu datoteku nismo morali
 pokretati kroz IDLE, mogli smo je i jednostavno pokrenuti direktno iz
 operativnog sustava. Ipak, prije no što se bacimo na samo programiranje
@@ -2840,7 +2844,7 @@ prikazuje kao strelica, a vrlo je lako s njom početi eksperimentirati i
 interaktivno.
 
 <figure id="fig:turtle_idle" data-latex-placement="ht">
-<img src="/Zadatak_LaTeX/images/turtle_idle.png" />
+<img src="/slike/turtle_idle.png" />
 <figcaption>Interaktivan rad s kornjačom</figcaption>
 </figure>
 
@@ -2872,7 +2876,7 @@ skriptu!
 Najjednostavnije rješenje ovog problema je kako slijedi:
 
 <figure id="fig:turtle_square" data-latex-placement="H">
-<img src="/Zadatak_LaTeX/images/turtle_square.png" style="width:50.0%" />
+<img src="/slike/turtle_square.png" style="width:50.0%" />
 <figcaption>Rezultat programa Kornjača i kvadrat 1</figcaption>
 </figure>
 
@@ -2915,7 +2919,7 @@ napraviti turn_angle = 120 \# stupanj pod kojim se skreće \# ...
 </div>
 
 <figure id="fig:turtle_triangle" data-latex-placement="H">
-<img src="/Zadatak_LaTeX/images/turtle_triangle.png" style="width:50.0%" />
+<img src="/slike/turtle_triangle.png" style="width:50.0%" />
 <figcaption>Rezultat programa Kornjača i trokut</figcaption>
 </figure>
 
@@ -2927,7 +2931,7 @@ napraviti turn_angle = 60 \# stupanj pod kojim se skreće \# ...
 </div>
 
 <figure id="fig:turtle_heksagon" data-latex-placement="H">
-<img src="/Zadatak_LaTeX/images/turtle_hex.png" style="width:50.0%" />
+<img src="/slike/turtle_hex.png" style="width:50.0%" />
 <figcaption>Rezultat programa Kornjača i heksagon</figcaption>
 </figure>
 
@@ -2949,7 +2953,7 @@ data-reference="fig:turtle_big_poly">5</a> vidimo poligon koji je
 pobjegao s ekrana.
 
 <figure id="fig:turtle_big_poly" data-latex-placement="ht">
-<img src="/Zadatak_LaTeX/images/turtle_big_poly.png" style="width:75.0%" />
+<img src="/slike/turtle_big_poly.png" style="width:75.0%" />
 <figcaption>Interaktivan rad s kornjačom</figcaption>
 </figure>
 
@@ -2994,7 +2998,7 @@ kliknemo na "start", dobiti ćemo sliku
 data-reference="fig:turtle_examples">6</a>.
 
 <figure id="fig:turtle_examples" data-latex-placement="ht">
-<img src="/Zadatak_LaTeX/images/turtle_examples.png" />
+<img src="/slike/turtle_examples.png" />
 <figcaption>Napredni primjeri mogućnosti s kornjačom</figcaption>
 </figure>
 
