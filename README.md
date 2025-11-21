@@ -1,6 +1,3 @@
-[Instalacija pythona](#-Instalacija-Pythona)
-
-
 # python_101
 # Uvod u programiranje
 
